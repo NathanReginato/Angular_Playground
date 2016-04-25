@@ -2,4 +2,4 @@
 
 ### This is my testing ground for Angular
 
-To get this code running on your machine, simply clone the files onto your computer then open the index.html file.
+Run ```npm run start``` to serve up the server on localhost port:```1337```
