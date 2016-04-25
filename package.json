@@ -1,0 +1,24 @@
+{
+  "name": "angular-playground",
+  "version": "1.0.0",
+  "description": "### This is my testing ground for Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanReginato/Angular_Playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanReginato/Angular_Playground/issues"
+  },
+  "homepage": "https://github.com/NathanReginato/Angular_Playground#readme",
+  "dependencies": {
+    "node": "0.0.0",
+    "static": "^2.0.0"
+  }
+}
